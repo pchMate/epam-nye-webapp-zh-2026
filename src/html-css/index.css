@@ -9,6 +9,14 @@ html {
     font-size: 10px;
 }
 
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
 #employee-container {
     width: 100%;
 }
