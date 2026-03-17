@@ -19,7 +19,7 @@ h1 {
 
 #employee-container {
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
     display: flex;
     flex-direction: column;
     gap: 25px;
