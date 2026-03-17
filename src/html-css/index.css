@@ -19,4 +19,20 @@ h1 {
 
 #employee-container {
     width: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin: 0 auto;
+}
+
+.employee-card {
+    display: flex;
+    align-items: center;
+    border: 1px solid #777;
+    border-radius: 6px;
+}
+
+.employee-details {
+    flex-direction: column;
 }
